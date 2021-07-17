@@ -1,11 +1,4 @@
-'''
-© All rights reserved by Mrvishal2k2
 
-Kangers dont f*ckin kang this !!!
-Should have to give credits 😏 else f***off 
-This is only for personal use Dont use this for ur bot channel business 😂
-Thanks to Mahesh Malekar for his Gplinks Bot !!
-'''
 
 # Bitly Bot
 
